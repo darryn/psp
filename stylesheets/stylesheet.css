@@ -14,6 +14,10 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+    
+em {
+  font-style: italic;
+}
 
 .btn {
   display: inline-block;
