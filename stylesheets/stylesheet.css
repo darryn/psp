@@ -13,6 +13,22 @@
     zoom: 1; /* For IE 6/7 (trigger hasLayout) */
 }
 
+.row-fluid {
+  margin: 0 -15px;
+}
+
+.col {
+  float: left;
+}
+
+.one-half {
+  width: 46%;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
 body {
   padding: 0;
   margin: 0;
