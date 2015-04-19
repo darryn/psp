@@ -22,8 +22,10 @@
   margin: 0 15px;
 }
 
-.one-half {
-  width: 46%;
+@media screen and (min-width: 42em) {
+  .one-half {
+    width: 46%;
+  }
 }
 
 ul, ol {
