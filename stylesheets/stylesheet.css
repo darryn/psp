@@ -253,10 +253,9 @@ em {
     padding: 0;
     margin-bottom: 1rem; }
 .main-content hr {
-  height: 2px;
+  height: 1px;
   padding: 0;
-  margin: 1rem 0;
-  background-color: #eff0f1;
+  background: none;
   border: 0; }
 
 @media screen and (min-width: 64em) {
@@ -284,7 +283,8 @@ em {
 hr {
   margin-bottom: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #eff0f1;
+  border-bottom: none;}
 
 .site-footer {
   padding-top: 2rem;
