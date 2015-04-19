@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(//cloud.githubusercontent.com/assets/502726/7217680/a43d340e-e60a-11e4-87c1-6a9862843a69.jpg) no-repeat;
+  background: url('//cloud.githubusercontent.com/assets/502726/7217680/a43d340e-e60a-11e4-87c1-6a9862843a69.jpg') no-repeat;
   background-size: cover;}
 
 @media screen and (min-width: 64em) {
