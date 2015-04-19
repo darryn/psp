@@ -102,7 +102,7 @@ em {
   .project-name {
     font-size: 1.75rem; } }
 
-.project-tagline {
+.main-content  .project-tagline {
   margin-bottom: 0;
   font-weight: normal;
   color: #fff;
@@ -111,7 +111,7 @@ em {
   font-size: 25px;
 }
 
-.project-tagline em {
+.main-content .project-tagline em {
   font-size: 80%;
 }
 
