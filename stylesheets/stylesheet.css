@@ -19,6 +19,7 @@
 
 .col {
   float: left;
+  margin: 0 15px;
 }
 
 .one-half {
